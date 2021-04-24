@@ -1,4 +1,4 @@
-# Test of Using Vitejs to Create a React Project
+# Test Using Vitejs to Create a React Project
 
 This is a simple vanilla React project created using:
 
